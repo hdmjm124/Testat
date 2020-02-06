@@ -4,7 +4,7 @@ Wert,Kommentar
 edgelist,
 from,"Person/Sender, entspricht ID aus der Nodelist"
 to ,"Organisation etc., entspricht ID aus der Nodelist"
-relationship,"definiert die Art der Beziehung, 1=Mitgliedschaft in Aufsichtsrat des VfB, 2=Mitgliedschaft bei Sponsoren des VfB, 3=Mitgliedschaft in weiteren Organisationen wie Vereinen, Verbänden, etc."
+relationship,"definiert die Art der Beziehung, 1=Mitgliedschaft in Aufsichtsrat des VfB, 2=Mitgliedschaft bei Sponsoren des VfB
 nodelist,
 id,
 type,"definiert den Typ, 0 = Unternehmen/Organisatoren, 1 = Person"
